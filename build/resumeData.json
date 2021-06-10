@@ -1,0 +1,168 @@
+{
+  "main": {
+    
+    "description":"Hi! I'm Ramis Seker. I'm a graduate student in Mechanical Engineering",
+    "image":"profilepic.jpg",
+    "bio":"I graduated in 2017 from Karadeniz Technical University, am studying Product and System Development for a master's degree in Germany. I have been living in Germany for 3 years. I'm interested in energy and automotive sector. Seeking for a good, reputable job in the mechanical Engineering field in a good company in which I can achieve my ambition and to be able to contribute into the development and improvement of the company and share knowledge, skills, and abilities among others; thus attaining a level of competency in the business world.",
+    "contactmessage":"",
+    "email": "ramis.sekere@gmail.com",
+    "phone": "+49 176-23449341 , +90 534-3895543",
+    "address":{
+      "street":"Sonnenstraße 29",
+      "city":"Schweinfurt",
+      "state":"Germany",
+      "zip": "97421"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ramis.seker/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ramisseker",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ramis-seker/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ramisseker",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MaegIiN",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    
+    "education":[
+      {
+        "school":"University of Applied Sciences Würzburg-Schweinfurt",
+        "degree":"Master Product and System Development",
+        "graduated":" March 2019 - "
+        
+      },
+      
+      {
+        "school":"Karadeniz Technical University",
+        "degree":"Mechanical Engineering",
+        "graduated":"September 2013 - September 2017"
+        
+      }
+    ],
+    "work":[
+      {
+        "company":"Goksel Machine",
+        "title":"Intern - Mechanical Quality Control Engineer",
+        "years":"June 2015 - September 2015",
+        "description":"Manufacturing / Industrial Products"
+      },
+      {
+        "company":"Norm Mechanical Installation",
+        "title":"Intern - Mechanical Area Operator",
+        "years":"June 2014 - February 2014",
+        "description":"Heating, cooling, air conditionining, HVAC"
+      }
+    ],
+    
+    "skills":[
+      {
+        "name":"AutoCAD, SolidWorks, MATLAB, CATIA, ANSYS,  C++, JAVASCRİPT, NODE.JS, REACT.JS, HTML5, CSS"
+        },
+      {
+          "name" : "Fluent Turkish, Advanced German, English"
+        },
+        {
+          "name" : "International Driving Licence"
+        }
+      
+    
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
